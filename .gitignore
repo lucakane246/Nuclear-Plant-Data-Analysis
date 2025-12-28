@@ -1,24 +1,10 @@
-__pycache__/
-*.py[cod]
-*.so
-*.egg-info/
-dist/
-build/
+#big csv files
+923_*.csv
+860_*.csv
 
-.ipynb_checkpoints/
-
-data/raw/
-data/processed/
+#excel files
 *.xlsx
 *.xls
-*.csv
 
-!outputs/*.csv
-
-.DS_Store
-Thumbs.db
-
-.vscode/
-.idea/
-
-.matplotlib/
+#notebook checkpoints
+.ipynb_checkpoints/
