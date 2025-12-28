@@ -1,5 +1,6 @@
 U.S. Nuclear Plant Capacity Factor Data Analysis (2021–2024)
 
+
 I. Overview
 
 This project analyzes performance of U.S. nuclear power plants from 2021-2024 by calculating plant-level capacity factors using publicly available data from the U.S. Energy Information Administration. Monthly net electricity generation data are added with plant capacity ratings to evaluate how consistently each plant operated relative to its maximum potential output.
@@ -18,7 +19,9 @@ Capacity factor is calculated as the ratio of actual net generation to maximum p
 Annual capacity factors are computed using the ratio of total annual generation to total annual maximum possible generation. Multi-year plant rankings are based on the average annual capacity factor over the study period.
 
 Capacity Factor=(Actual Net Generation/Output)/(Maximum Possible Generation/Output)
+
 Equation 1.
+
 
 III. Results
 
